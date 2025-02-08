@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RideonWheels</string>
+    <string name="welcome" />
+    <string name="login_to_continue" />
+    <string name="number_or_email" />
+    <string name="password" />
+    <string name="log_in" />
+    <string name="you_don_t_have_an_account" />
+    <string name="Sign_Up" />
+    <string name="forgot_password" />
+    <string name="terms_conditions_and_privacy"><![CDATA[Terms & Conditions and privacy]]></string>
+</resources>
